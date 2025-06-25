@@ -1,14 +1,19 @@
-Lista de Tarefas
-Projeto simples de uma lista de tarefas feita com HTML, CSS e JavaScript. 
-Permite adicionar, marcar como concluída e remover tarefas.
+# Lista de Tarefa 📝
 
+Este é um projeto simples de **lista de tarefas** desenvolvido com **HTML, CSS e JavaScript**.
 
-Tecnologias usadas
-HTML5
-CSS3
-JavaScript
+## 💡 Funcionalidades
 
-Funcionalidades
-Adicionar novas tarefas
-Marcar tarefas como concluídas
-Remover tarefas da lista
+- Adicionar nova tarefa
+- Marcar tarefa como concluída
+- Remover tarefa
+- Interface limpa e responsiva
+
+## 🚀 Tecnologias usadas
+
+- HTML5
+- CSS3
+- JavaScript (puro)
+
+## 📁 Estrutura de arquivos
+
